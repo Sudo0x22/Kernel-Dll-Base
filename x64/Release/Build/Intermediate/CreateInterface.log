@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  entry.cpp
+C:\Users\Float\source\repos\CreateInterface\include\SDK\Interface\InterfaceStyle\InterfaceStyle.h(47,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Float\source\repos\CreateInterface\include\SDK\Interface\InterfaceStyle\InterfaceStyle.h(48,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Float\source\repos\CreateInterface\include\SDK\Interface\Interface.h(77,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Float\source\repos\CreateInterface\include\SDK\Interface\Interface.h(77,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Float\source\repos\CreateInterface\include\SDK\Interface\Interface.h(128,36): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Float\source\repos\CreateInterface\include\Hooks\hooks.h(25,2): warning C4091: 'typedef ': ignored on left of 'DllData' when no variable is declared
+  Generating code
+  28 of 1575 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CreateInterface.vcxproj -> C:\Users\Float\source\repos\[ 🔑 ]\x64\Release\Build\Paladins.dll
