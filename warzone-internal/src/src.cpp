@@ -27,7 +27,7 @@ DWORD64 WINAPI FeaturesThread(LPVOID Buffer)
 			if (!pMain->Entity)
 				continue;
 
-			pMain->GlowEnabled = *(BOOL*)(pMain->ModuleBase + pOffsets->glow_enable) = TRUE;
+			pMain->GlowEnabled = *(BOOL*)(pMain->Entity + pMain->glow_enable) = TRUE;
 		}
 	}
 	return TRUE;
