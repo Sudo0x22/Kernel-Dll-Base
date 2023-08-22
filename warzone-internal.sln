@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "warzone-internal", "warzone-internal\warzone-internal.vcxproj", "{262DB583-987E-417F-84D4-106716BA400D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllTester", "..\..\external\DllTester\DllTester.vcxproj", "{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262DB583-987E-417F-84D4-106716BA400D}.Debug|x64.ActiveCfg = Debug|x64
+		{262DB583-987E-417F-84D4-106716BA400D}.Debug|x64.Build.0 = Debug|x64
+		{262DB583-987E-417F-84D4-106716BA400D}.Debug|x86.ActiveCfg = Debug|Win32
+		{262DB583-987E-417F-84D4-106716BA400D}.Debug|x86.Build.0 = Debug|Win32
+		{262DB583-987E-417F-84D4-106716BA400D}.Release|x64.ActiveCfg = Release|x64
+		{262DB583-987E-417F-84D4-106716BA400D}.Release|x64.Build.0 = Release|x64
+		{262DB583-987E-417F-84D4-106716BA400D}.Release|x86.ActiveCfg = Release|Win32
+		{262DB583-987E-417F-84D4-106716BA400D}.Release|x86.Build.0 = Release|Win32
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Debug|x64.ActiveCfg = Debug|x64
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Debug|x64.Build.0 = Debug|x64
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Debug|x86.Build.0 = Debug|Win32
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Release|x64.ActiveCfg = Release|x64
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Release|x64.Build.0 = Release|x64
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Release|x86.ActiveCfg = Release|Win32
+		{F312C1AD-79D0-43DA-9B8A-CE461E2FB06E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3BF3091-3E8D-409D-AD16-3CCC23AFAF4C}
+	EndGlobalSection
+EndGlobal
